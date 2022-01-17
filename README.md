@@ -1,2 +1,2 @@
 # Graphs
-{% include Hashtags_graph.html}
+{% include hashtags_graph.html}
